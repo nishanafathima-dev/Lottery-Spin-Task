@@ -13,6 +13,7 @@ const AnimatedPrizeText = ({ show }) => {
   }, [show]);
 
   if (!show) return null;
+// hhh
 
   return (
     <div className="absolute top-16 left-0 right-0 flex justify-center z-10">
